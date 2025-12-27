@@ -40,9 +40,10 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In 13th century England, Norman of Torn is trained by his father in the art of swordsmanship and to hate the English. He befriends the priest Father Claude, who teaches him to respect the poor and the weak. As the “Devil of Torn” becomes the powerful leader of a large outlaw force that terrorizes the aristocracy and protects the poor, he becomes increasingly conflicted about his actions as he falls in love with the daughter of an Earl.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Outlaw of Torn&lt;/i&gt; is the only historical novel published during &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt; lifetime; he is better known for his &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series and science fiction novels.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/369</dc:source>
